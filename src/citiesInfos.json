@@ -1,0 +1,32 @@
+[
+  {
+    "image": "https://cdn.icon-icons.com/icons2/238/PNG/256/Uk_26409.png",
+    "mainImage": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "cityCapital": "Londres",
+    "cityName": "Reino Unido"
+  },
+  {
+    "image": "https://cdn.icon-icons.com/icons2/238/PNG/256/France_26439.png",
+    "mainImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80",
+    "cityCapital": "Paris",
+    "cityName": "França"
+  },
+  {
+    "image": "https://cdn.icon-icons.com/icons2/238/PNG/256/Italy_26430.png",
+    "mainImage": "https://images.unsplash.com/photo-1604580864964-0462f5d5b1a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "cityCapital": "Roma",
+    "cityName": "Itália"
+  },
+  {
+    "image": "https://cdn.icon-icons.com/icons2/107/PNG/512/czech_republic_18215.png",
+    "mainImage": "https://images.unsplash.com/photo-1592906209472-a36b1f3782ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "cityCapital": "Praga",
+    "cityName": "República Tcheca"
+  },
+  {
+    "image": "https://cdn.icon-icons.com/icons2/83/PNG/512/netherlands_15801.png",
+    "mainImage": "https://images.unsplash.com/photo-1594759876531-d12b5e9e2453?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80",
+    "cityCapital": "Amsterda",
+    "cityName": "Holanda"
+  }
+]
